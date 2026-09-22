@@ -41,6 +41,3 @@ Additionally, the script includes queries to identify countries with the highest
 - **The inspiration for this project lies in the hands of AlexTheAnalyst on youtube and his course on Data Analytics.**
 - **Data was gathered from https://ourworldindata.org/covid-deaths.**
 
-
-## License
-This project is licensed under the MIT License.

@@ -32,9 +32,6 @@ Additionally, the script includes queries to identify countries with the highest
   - The Analysis of Percent Population infected per country shows that regions with like Africa or South America had a lower Infection rate compared to Regions like North America and Europe. This could be from lack of data during the beginning of Covid.
  
     
-- **Dashboard**:
-  [Covid Visualization Dashboard](https://public.tableau.com/app/profile/alexander.harris7255/viz/Covid_Visualization_17240932164130/Dashboard1?publish=yes)
-
 
 ## Acknowledgements
 
